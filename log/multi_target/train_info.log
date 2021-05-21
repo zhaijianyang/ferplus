@@ -1,0 +1,17 @@
+INFO:root:Starting with training mode multi_target.
+INFO:root:Loading data...
+INFO:root:Loading /userhome/fer2013/ferplus-keras/data/FER2013Train
+INFO:root:Loading /userhome/fer2013/ferplus-keras/data/FER2013Valid
+INFO:root:Loading /userhome/fer2013/ferplus-keras/data/FER2013Test
+INFO:root:          	Train	Val	Test
+INFO:root:neutral   	10056	1180	1083
+INFO:root:happiness 	7489	862	892
+INFO:root:surprise  	3481	411	394
+INFO:root:sadness   	3410	348	382
+INFO:root:anger     	2337	289	269
+INFO:root:disgust   	150	25	16
+INFO:root:fear      	598	60	86
+INFO:root:contempt  	146	16	15
+INFO:root:Start training...
+INFO:root:Start test...
+INFO:root:Test Accuracy: 0.7934332164488365
